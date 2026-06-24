@@ -63,7 +63,7 @@ export default function RootLayout({
                     <Navbar />
                     <main>{children}</main>
                     <Footer />
-
+                    <CustomCursor />
                     <Preloader />
                     <ScrollProgressIndicator />
                     <ParticleBackground />
