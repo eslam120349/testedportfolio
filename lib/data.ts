@@ -111,8 +111,10 @@ export const PROJECTS: IProject[] = [
     thumbnail: '/projects/thumbnail/mashros.jpg',
     longThumbnail: '/projects/long/mashros.jpg',
     images: [
+      '/projects/long/mashros.jpg',        
       '/projects/images/mashros-1.jpg',
       '/projects/images/mashros-2.jpg',
+
     ],
   },
 
