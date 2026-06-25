@@ -48,7 +48,7 @@ const Banner = () => {
                         <span className="font-medium text-foreground">
                             Eslam
                         </span>
-                        . A creative Frontend Developer with 3+ years of
+                        . A creative Frontend Developer with 10+ years of
                         experience in building high-performance, scalable, and
                         responsive web solutions.
                     </p>
